@@ -15,24 +15,24 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global augmented reality market is estimated at approximately $120B–$140B in 2025 and projected to surpass $160B–$210B in 2026, registering an annual growth rate (CAGR) of 25%–35%. The market exhibits a bifurcated concentration: it is moderately concentrated at the foundational platform, operating system, and spatial hardware level dominated by tech giants (Meta, Apple, Google, PTC), yet highly fragmented across specialized authoring SaaS platforms, independent software vendors (ISVs), WebAR toolkits, and vertical industrial solutions.
+
 ## SaaS/Hosted Platforms
 
-- **[8th Wall](https://www.8thwall.com/)**  
-  Commercial WebAR platform with SLAM, image targets, and face effects. Positioned for brands and agencies wanting polished AR without building tracking from scratch.
-
-- **[ZapWorks](https://zap.works/)**  
-  AR creation platform with a visual editor and ZapWorks Studio for advanced scripting. Offers image tracking and marker-based experiences.
-
-- **[Blippar](https://www.blippar.com/)**  
-  No-code AR creation platform with marker and image tracking. Positioned for marketing and education.
-
-- **[PTC Vuforia](https://www.ptc.com/en/products/vuforia)**  
-  Enterprise AR platform with robust image and object tracking. Vuforia Engine is available for mobile and WebAR via Vuforia Engine.
+| Platform | Company Valuation / Revenue | Pricing (Starting Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[PTC Vuforia](https://www.ptc.com/en/products/vuforia)** | ~$20.8B–$22.1B Market Cap / $2.74B Annual Revenue (PTC Inc.) | $99/month (Cloud Recognition Plus add-on); custom annual quote for Premium/Enterprise | **Free Forever (Basic Plan)**: Unlimited app development and commercial deployment without watermarks for core features (Image Targets, Multi-Targets, Cylinder Targets, VuMarks, Ground Plane); includes up to 1,000 cloud-stored images and 1,000 cloud recognitions/month. | Enterprise AR platform with robust image and object tracking. Vuforia Engine powers mobile and WebAR tracking pipelines. |
+| **[8th Wall](https://www.8thwall.com/)** | ~$3.5B Acquisition Valuation / >$1B Annual Revenue (Niantic / Niantic Spatial) | $0/month (100% Free Open-Source model; historically started at $300/month or $99/month Pro) | **Free Forever (Current Open-Source Model)**: Core engine, desktop tools, and self-hosted WebAR SDK released 100% free with no project caps, fees, or hosted subscription tiers. *(Historical Free Trial: 14-day trial with unpublishable test projects).* | WebAR platform with SLAM, image targets, and face effects, now transitioning developers toward free self-hosted WebAR infrastructure. |
+| **[ZapWorks](https://zap.works/)** | $45M Acquisition Valuation / ~$5.1M Annual ARR (Zappar / Infinite Reality) | $65/month (billed annually) or $99/month (billed monthly) for Pro tier | **14-day Free Trial** for paid Pro workspace; or **Free Developer Plan (Non-Commercial)**: unlimited projects and views strictly for non-commercial use, with Zappar branded interstitial splash screen, ~25MB project size limit, and 250 AI credits/month. | Full-stack AR creation platform with visual editors (Designer, Mattercraft, Studio) and Universal AR SDKs with image tracking and WebAR hosting. |
+| **[Blippar](https://www.blippar.com/)** | ~$5M Post-Restructure Extension / ~$5M–$8M ARR (Candy Ventures) | £7.99/month (~$10/month) for Creative plan; £100/month for WebAR SDK | **Free Forever (Starter Plan)**: Unlimited project creation and internal testing in Design Canvas/Hub, but no live public publishing; or **14-day Free Trial** on paid publishing tiers. | No-code AR creation platform (Blippbuilder) and WebAR SDK with marker and image tracking positioned for marketing and interactive campaigns. |
 
 ## Open-Source GitHub Projects
 
