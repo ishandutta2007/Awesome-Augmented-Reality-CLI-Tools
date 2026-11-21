@@ -1,6 +1,6 @@
 # Awesome-Augmented-Reality-CLI-Tools
 
-# Top Augmented Reality & CLI Tools Ecosystem
+## Top Augmented Reality & CLI Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on WebXR Frameworks, Marker/Image Tracking & Self-Hosted AR Tooling*  
