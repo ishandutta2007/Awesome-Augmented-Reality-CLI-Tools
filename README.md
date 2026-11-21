@@ -55,7 +55,7 @@ The market exhibits a **bifurcated concentration profile**:
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of leading open-source Augmented Reality SDKs, WebXR frameworks, computer vision engines, and 3D viewers. **Sorted in descending order by GitHub Stars ⭐**.
+Curated list of leading open-source Augmented Reality SDKs, WebXR frameworks, computer vision engines, and 3D viewers. **Sorted in descending order by GitHub_Stars ⭐**.
 
 1. **[MediaPipe](https://github.com/google/mediapipe)**  
    [![Stars](https://img.shields.io/github/stars/google/mediapipe?style=social&color=white)](https://github.com/google/mediapipe/stargazers)  
@@ -154,7 +154,7 @@ We welcome contributions from the global spatial computing and open-source commu
 
 1. **Fork** this repository.
 2. **Add or update** entries in [README.md](README.md) adhering to existing formats.
-3. Ensure links are working, descriptions are concise and factual, and open-source star badges are linked to stargazers.
+3. Ensure links are working, descriptions are concise and factual, and open-source Stars_Badges are linked to stargazers.
 4. Open a **Pull Request** detailing your changes.
 
 ---
